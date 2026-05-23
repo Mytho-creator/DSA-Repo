@@ -1,2 +1,2 @@
 # DSA-Repo
-This is my first file created on Github by me. In which i store dsa code.
+This is my first folder created on Github by me. In which i store dsa code.
