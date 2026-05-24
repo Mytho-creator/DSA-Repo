@@ -13,14 +13,13 @@ void linearSearch(vector<int> arr, int n){
    cin>>key;
 
    for(int i=0; i<n; i++){
-       cout<<i<<endl;
        if(arr[i] == key){
         cout<<"Key Found at index "<<i;
         Found = true;
         break;
        }
    }
-   if(! Found){
+   if(!Found){
      cout<<"Key Not Found! "<<endl;
    }
 }

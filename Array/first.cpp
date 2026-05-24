@@ -1,5 +1,5 @@
 
-//  Reverse an array
+//  Reverse an array using extra space
 
 #include <iostream>
 using namespace std;
@@ -23,6 +23,8 @@ int n = sizeof(arr) /sizeof(int);
       cout<<arr[i]<<" ";
     }
     cout<<endl;
+
+
 
     return 0;
 }
